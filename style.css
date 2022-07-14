@@ -108,4 +108,6 @@ nav li a:focus, nav li a:hover {
     color: white;
     background: #a66;
   }
- 
+ section li{
+  list-style: square;
+ }
